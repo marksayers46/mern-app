@@ -1,0 +1,1 @@
+Basic application that is able to record the information of employees and then display it using a React.
