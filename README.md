@@ -2,4 +2,4 @@
 
 ## Frontend: React.js
 ## Backend: Express.js, MongoDB, Node.js
-## Dependencies: cors(Cross-Origin resource Sharing), dotenv
+## Dependencies: cors(Cross-Origin Resource Sharing), dotenv
