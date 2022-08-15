@@ -1,4 +1,4 @@
-// Server API endpoints
+// Server API routes/endpoints
 const express = require("express")
  
 // recordRoutes is an instance of the express router.
